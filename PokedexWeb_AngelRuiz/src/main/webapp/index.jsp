@@ -7,9 +7,8 @@
         <link rel="stylesheet" href="estilos/style.css">
     </head>
     <body>
-        <header></header>
         <main>
-            <div class="formPokemon">
+            <div class="Pokedex">
                 <h1>Registrar Nuevo Pokemon</h1>
                 <form action="addPokemon" method="post">
                     <label>Nombre</label>
@@ -29,6 +28,5 @@
                 <a href="listaPokemon.jsp" class="btnVerPokemon">Ver Pokemones Registrados</a>
             </div>
         </main>
-        <footer></footer>
     </body>
 </html>

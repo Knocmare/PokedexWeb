@@ -9,7 +9,7 @@
         <link rel="stylesheet" href="estilos/style.css">
     </head>
     <body>
-        <div>
+        <div class="Pokedex">
             <h1>Pokemones Registrados</h1>
             <table>
                 <thead>
