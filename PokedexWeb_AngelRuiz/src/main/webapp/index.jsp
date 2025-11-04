@@ -26,7 +26,7 @@
 
                     <button type="submit">Agregar Pokémon</button>
                 </form>
-                <a href="list" class="btnVerPokemon">Ver Pokemones Registrados</a>
+                <a href="listaPokemon.jsp" class="btnVerPokemon">Ver Pokemones Registrados</a>
             </div>
         </main>
         <footer></footer>

@@ -38,7 +38,7 @@ public class listPokemonServlet extends HttpServlet {
         }
         
         request.setAttribute("pokemones", lista);
-        RequestDispatcher dispatcher = request.getRequestDispatcher("listaPokemones.jsp");
+        RequestDispatcher dispatcher = request.getRequestDispatcher("listaPokemon.jsp");
         dispatcher.forward(request, response);
     }
 }

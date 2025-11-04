@@ -49,7 +49,7 @@ public class addPokemonServlet extends HttpServlet {
         context.setAttribute("pokemones", lista);
         
         // Redirige a lista
-        response.sendRedirect("list");
+        response.sendRedirect("listPokemon");
     }
 
 }
